@@ -1,10 +1,6 @@
 
-
+This code (h1b_statistics.py) uses Python 3.6, and "import re".
 # Output 
-
-Your program must create 2 output files:
-* `top_10_occupations.txt`: Top 10 occupations for certified visa applications
-* `top_10_states.txt`: Top 10 states for certified visa applications
 
 Each line holds one record and each field on each line is separated by a semicolon (;).
 
